@@ -1,0 +1,19 @@
+{
+  "name": "qho634_project",
+  "version": "1.0.0",
+  "description": "Face recognition application for QHO634 Dissertation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosianuandrei/QHO634_project.git"
+  },
+  "author": "Andrei-Alexandru Rosianu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosianuandrei/QHO634_project/issues"
+  },
+  "homepage": "https://github.com/rosianuandrei/QHO634_project#readme"
+}

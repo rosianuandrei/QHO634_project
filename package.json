@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rosianuandrei/QHO634_project/issues"
   },
-  "homepage": "https://github.com/rosianuandrei/QHO634_project#readme"
+  "homepage": "https://github.com/rosianuandrei/QHO634_project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
 }

@@ -1,6 +1,6 @@
 const video = document.getElementById('videoInput');
 const button = document.getElementById('start');
-
+const array = [];
 Promise.all([
     faceapi.nets.faceRecognitionNet.loadFromUri('/models'),
     faceapi.nets.faceLandmark68Net.loadFromUri('/models'),

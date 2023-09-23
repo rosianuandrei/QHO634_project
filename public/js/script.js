@@ -17,3 +17,11 @@ function start() {
 
     faceRecognizer();
 }
+
+async function faceRecognizer() {
+
+}
+
+function loadImages() {
+
+}
